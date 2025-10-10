@@ -63,7 +63,7 @@ npm run build
 
 | Name | GitHub Profile |
 |------|----------------|
+| Eklavya Verma | [![GitHub](https://img.shields.io/badge/Eklavya-Verma-blue?logo=github)](https://github.com/eklavya56) |
 | Suryakant Dwivedi | [![GitHub](https://img.shields.io/badge/Suryakant-Dwivedi-blue?logo=github)](https://github.com/suryakantdwivedi8493) |
 | Prakhar Kumar | [![GitHub](https://img.shields.io/badge/Prakhar-Kumar-blue?logo=github)](https://github.com/prakhar1412) |
 | Prashant Gupta | [![GitHub](https://img.shields.io/badge/Prashant-Gupta-blue?logo=github)](https://github.com/prashant2209-cloud) |
-| Eklavya Verma | [![GitHub](https://img.shields.io/badge/Eklavya-Verma-blue?logo=github)](https://github.com/eklavya56) |
